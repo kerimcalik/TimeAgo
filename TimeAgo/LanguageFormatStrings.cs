@@ -1289,7 +1289,7 @@ namespace TimeAgo {
 					DayAgo =     "{0} gün önce",
 					DaysAgo =    "{0} günü önce",
 					MonthAgo =   "{0} ay önce",
-					MonthsAgo =  "{0} aylar önce",
+					MonthsAgo =  "{0} ay önce",
 					YearAgo =    "{0} yıl önce",
 					YearsAgo =   "{0} yıl önce",
 				});
